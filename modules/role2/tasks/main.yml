@@ -1,0 +1,4 @@
+
+- name: "Duo"
+  debug:
+    msg: "Number duo" 
